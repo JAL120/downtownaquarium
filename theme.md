@@ -41,5 +41,12 @@ Once inside the aquarium the player notices its abandonment, going off of the al
 
 
 
-
 The Aquarium will have multiple floors with the main floor being the gift shop/bathroom based floor with the giant fish tank on the bottom that originally held sharks for example, second floor will have the first set of exhibits where originally you’d be able to touch the jellyfish, the next floor would have more fish exhibits, the floor after that would have the tortoise and this same floor would exit to more exhibits and lead to a stairway that goes downward and takes the player to the right side of the aquarium where the shark exhibit than to the tube into the cafe looping back around to the original gift shop floor, sounds very confusing on paper.
+
+WADS:
+https://www.gamers.org/pub/idgames2/graphics/texture_wads/bigblue.zip
+https://www.gamers.org/pub/idgames2/graphics/texture_wads/cyber.zip
+https://www.gamers.org/pub/idgames2/graphics/texture_wads/green.zip
+https://www.gamers.org/pub/idgames2/graphics/texture_wads/stones1.zip
+https://www.gamers.org/pub/idgames2/graphics/texture_wads/stones2.zip
+https://www.quaddicted.com/files/wads/fortress_wad.zip
