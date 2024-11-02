@@ -49,3 +49,6 @@ https://www.gamers.org/pub/idgames2/graphics/texture_wads/green.zip
 https://www.gamers.org/pub/idgames2/graphics/texture_wads/stones1.zip
 https://www.gamers.org/pub/idgames2/graphics/texture_wads/stones2.zip
 https://www.quaddicted.com/files/wads/fortress_wad.zip
+
+
+These wads are what I plan to take advantage of in building this scene along with many more. Each individual wad carries a texture that appeals to each setting of my theme, from the city outside to the fish tanks on the inside. 
