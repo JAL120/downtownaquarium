@@ -3,4 +3,4 @@ Single player Quake map
 
 [Theme](theme.md)
 
-[Research-and-layout](research-and-layout.md)
+[Research and Layout](research-and-layout.md)
