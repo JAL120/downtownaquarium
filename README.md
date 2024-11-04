@@ -5,4 +5,4 @@ Single player Quake map
 
 [Research and Layout](research-and-layout.md)
 
-[Bubble Diagram](bubblediagram.md)
+[Areas and Bubble Diagram](areas-and-bubblediagram.md)
