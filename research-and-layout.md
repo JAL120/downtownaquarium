@@ -12,3 +12,5 @@ These images assisted me in gaining an idea for my map. These images work for my
 ![image](https://github.com/user-attachments/assets/0c0872e8-edcc-4581-aa8c-3dd75174c940)
 
 These examples give me an idea of how other games have taken advantage of for example the real life pictures I used before.
+
+Breakdown:
