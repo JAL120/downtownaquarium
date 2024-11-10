@@ -6,3 +6,5 @@ Single player Quake map
 [Research and Layout](research-and-layout.md)
 
 [Areas and Bubble Diagram](areas-and-bubblediagram.md)
+
+[Topdown map, Encounter walkthrough](topdown-map-encounter-walkthrough.md)
