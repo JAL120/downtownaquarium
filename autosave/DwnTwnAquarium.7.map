@@ -10207,6 +10207,7 @@
 // entity 62
 {
 "classname" "func_button"
+"targetname" "button1"
 // brush 0
 {
 ( 660 1440 344 ) ( 660 1441 344 ) ( 660 1440 345 ) 128_blood_2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
