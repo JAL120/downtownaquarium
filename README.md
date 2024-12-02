@@ -12,3 +12,5 @@ Single player Quake map
 [Map Blockout](blockout.md)
 
 [PLaytesting 1](playtest1.md)
+
+[Gameplay and Iteration](gameplayer-and-iteratons.md)
