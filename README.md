@@ -14,3 +14,5 @@ Single player Quake map
 [PLaytesting 1](playtest1.md)
 
 [Gameplay and Iteration](gameplay-and-iteration.md)
+
+[Iteration, Textures, and Lighting](iteration-textures-and-lighting.md)
