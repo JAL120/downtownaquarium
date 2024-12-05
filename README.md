@@ -10,3 +10,9 @@ Single player Quake map
 [Topdown map, Encounter walkthrough](topdown-map-encounter-walkthrough.md)
 
 [Map Blockout](blockout.md)
+
+[PLaytesting 1](playtest1.md)
+
+[Gameplay and Iteration](gameplay-and-iteration.md)
+
+[Iteration, Textures, and Lighting](iteration-textures-and-lighting.md)
