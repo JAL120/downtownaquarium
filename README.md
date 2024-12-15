@@ -16,3 +16,5 @@ Single player Quake map
 [Gameplay and Iteration](gameplay-and-iteration.md)
 
 [Iteration, Textures, and Lighting](iteration-textures-and-lighting.md)
+
+[Final map walkthrough video](final-map-walkthrough-video)
